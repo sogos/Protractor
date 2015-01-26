@@ -1,4 +1,4 @@
-# MySQLTeleporter
+# Protractor Docker Container
 
 Base Image: debian:wheezy
 
@@ -18,4 +18,3 @@ Step 2: Run the Container
 ```
 docker run -v /local_volumes:/tmp  -t -i sogos/Protractor
 ```
-
