@@ -2,6 +2,8 @@
 
 Base Image: debian:wheezy
 
+(Need https://github.com/benschw/docker-selenium-grid with a name on hub:  selenium-hub)
+
 
 Todo: 
 
